@@ -1,6 +1,6 @@
 # Kafka local utils
 
-Utility scripts I use when quickly spinning up a local Kafka setup using Docker. Runs a single-node [Bitnami Kafka](https://hub.docker.com/r/bitnami/kafka) instance (KRaft mode, no Zookeeper) and [Kafka UI](https://github.com/provectus/kafka-ui). Mostly for experimenting, testing or playing around. Without Zookeeper.
+Utility scripts I use when quickly spinning up a local Kafka setup using Docker. Runs a single-node [Bitnami Kafka](https://hub.docker.com/r/bitnami/kafka) instance (KRaft mode, no Zookeeper) and [Kafka UI](https://github.com/provectus/kafka-ui). Mostly for experimenting, testing or playing around.
 
 ## Current utils
 
